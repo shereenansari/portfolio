@@ -1,0 +1,14 @@
+body{
+    background-color: blanchedalmond;
+    padding-left: 10px;
+}
+
+#header{
+    display: flex;
+    justify-content: space-between;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    display:flex;
+}
